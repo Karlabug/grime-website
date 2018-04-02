@@ -1,0 +1,24 @@
+body {
+  background-color: #222;
+}
+
+.navbar-default {
+    background-color: transparent;
+    padding: px 0;
+    border: 0;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url("C:/Users/Karla/Documents/CFG/GitHub/grime-website/images/music-producer-main-pic.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#artists-section {
+  text-align: center;
+  background-color: #222;
+  display: block;
+}
