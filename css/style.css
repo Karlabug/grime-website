@@ -1,5 +1,8 @@
 body {
+
   background-color: #222;
+  text-align: left;
+
 }
 
 .navbar-default {
@@ -12,13 +15,27 @@ body {
   padding-top: 90px;
   min-height: 600px;
   margin-bottom: 0;
-  background-image: url("C:/Users/Karla/Documents/CFG/GitHub/grime-website/images/music-producer-main-pic.jpg");
+  background-image: url("music-producer.jpg");
   background-size: cover;
   background-attachment: fixed;
+}
+
+
+img {
+    border-radius: 50%;
 }
 
 #artists-section {
   text-align: center;
   background-color: #222;
   display: block;
+  font-family: 'rock salt';
+  font-color:white;
+}
+
+#title {
+  font-family: 'Rock Salt';
+}
+#location {
+  font-family: 'Rock Salt';
 }
